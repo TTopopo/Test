@@ -1,0 +1,7 @@
+C:\Users\nekit\Desktop\5 семест\Каряев\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\nekit\Desktop\5 семест\Каряев\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\nekit\Desktop\5 семест\Каряев\Test\Test\bin\Debug\Test.exe.config
+C:\Users\nekit\Desktop\5 семест\Каряев\Test\Test\bin\Debug\Test.exe
+C:\Users\nekit\Desktop\5 семест\Каряев\Test\Test\bin\Debug\Test.pdb
+C:\Users\nekit\Desktop\5 семест\Каряев\Test\Test\obj\Debug\Test.exe
+C:\Users\nekit\Desktop\5 семест\Каряев\Test\Test\obj\Debug\Test.pdb
